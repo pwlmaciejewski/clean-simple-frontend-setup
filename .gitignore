@@ -12,3 +12,10 @@ logs
 results
 
 npm-debug.log
+
+node_modules
+bower_components
+public/style.css
+public/script.js
+public/sprite.png
+style/sprite.styl
