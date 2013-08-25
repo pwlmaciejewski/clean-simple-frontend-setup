@@ -1,0 +1,37 @@
+{
+  "name": "clean-simple-frontend-setup",
+  "version": "0.0.0",
+  "description": "Clean and simple front-end project setup template",
+  "main": "-",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fragphace/clean-simple-frontend-setup"
+  },
+  "keywords": [
+    "setup",
+    "template"
+  ],
+  "author": "Paweł Maciejewski <fragphace@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fragphace/clean-simple-frontend-setup/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "coffeeify": "~0.5.1",
+    "grunt": "~0.4.1",
+    "grunt-browserify": "~1.2.4",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-cssmin": "~0.6.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-mincss": "~0.3.2",
+    "grunt-contrib-stylus": "~0.8.0",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-rename": "~0.1.2",
+    "grunt-spritesmith": "~1.7.0"
+  }
+}
