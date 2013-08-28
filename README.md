@@ -25,4 +25,4 @@ And don't forget to modify `package.json`, `README.md` and `LICENSE`.
 
 ## Usage
 
-TBA
+Check [http://fragphace.pl/blog/2013-08-24-Clean-simple-frontend-setup-for-CoffeeScript](http://fragphace.pl/blog/2013-08-24-Clean-simple-frontend-setup-for-CoffeeScript).
